@@ -1,1 +1,2 @@
-test
+# TEST git file
+Sample text
